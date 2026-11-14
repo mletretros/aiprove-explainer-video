@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+out/proof/
+out/qa/
+out/mix.wav
+audio/*.mp3
